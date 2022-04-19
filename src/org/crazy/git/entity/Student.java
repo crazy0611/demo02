@@ -4,5 +4,4 @@ public class Student {
 
     String name;
     Boolean gender;
-
 }
